@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smitibe/react-demo/static/css/main.5caf0568.css",
+    "main.js": "/smitibe/react-demo/static/js/main.0ed10ec8.js",
+    "static/js/453.c957a018.chunk.js": "/smitibe/react-demo/static/js/453.c957a018.chunk.js",
+    "static/media/logo.svg": "/smitibe/react-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smitibe/react-demo/index.html",
+    "main.5caf0568.css.map": "/smitibe/react-demo/static/css/main.5caf0568.css.map",
+    "main.0ed10ec8.js.map": "/smitibe/react-demo/static/js/main.0ed10ec8.js.map",
+    "453.c957a018.chunk.js.map": "/smitibe/react-demo/static/js/453.c957a018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5caf0568.css",
+    "static/js/main.0ed10ec8.js"
+  ]
+}
